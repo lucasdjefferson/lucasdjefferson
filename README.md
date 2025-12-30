@@ -1,7 +1,7 @@
 # Hi there, I'm Lucas Jefferson 👋
 ### Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
-I am a passionate techn professional working to enter the world of DevOps. My focus is on bridging the gap between development and operations by building scalable, automated, and reliable infrastructure. 
+I am a passionate techn professional working to enter the world of DevOps/System Administration. My focus is on bridging the gap between development and operations by building scalable, automated, and reliable infrastructure. 
 
 ---
 
@@ -36,7 +36,7 @@ I am a passionate techn professional working to enter the world of DevOps. My fo
 
 ## 📜 Certifications & Learning
 * ☁️ **Currently Studying:** AWS Certified Solutions Architect - Associate
-* ✅ **Completed:** **See Linkedin Certification Section** 
+* ✅ **Completed:** ** [See Linkedin Certification Section](https://www.linkedin.com/in/lucas-jefferson/)** 
 * 🔭 **Goal:** 
 
 ---
