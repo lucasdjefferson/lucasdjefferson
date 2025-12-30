@@ -37,7 +37,7 @@ I am a passionate techn professional working to enter the world of DevOps/System
 ## 📜 Certifications & Learning
 * ☁️ **Currently Studying:** AWS Certified Solutions Architect - Associate
 * ✅ **Completed:** ** [See Linkedin Certification Section](https://www.linkedin.com/in/lucas-jefferson/)** 
-* 🔭 **Goal:** 
+* 🔭 **Goal:** AWS Certified DevOps Engineer
 
 ---
 <!--
